@@ -1,6 +1,10 @@
 # tripwire_bash
 Simple bash tripwire, idea based on [binsnitch](https://github.com/NVISO-BE/binsnitch). 
 Use it to monitor for changes in a certain directory. Based of a baseline file.
+ 
+## requirements
+- bash
+- md5sum (this can be changed to sha256 fairly simple)
 
 ## usage
 ```
