@@ -9,7 +9,7 @@ Use it to monitor for changes in a certain directory. Based of a baseline file.
 ## usage
 ```
 cd /opt
-git clone https://github.com/NVISO-BE/binsnitch
+git clone https://github.com/svennd/tripwire_bash
 mkdir -p /opt/trip
 ```
 
